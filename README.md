@@ -9,28 +9,28 @@
 5. [How to Run](#How-to-Run)
 6. [Additional Documents](#Additional-Documents)
 
-## <ins>Project Title</ins>
+## **<ins>Project Title</ins>**
 
 "Hello-World, My first practice repository"
 
-### **Description**
+### **<ins>Description</ins>**
 
 I am practicing using GitHub, and learning how to create repositories and add necessary files to those repositories.
 This is just for practice to learn Markdown Syntax.
 
-### Tools Used
+### **<ins>Tools Used</ins>**
 
 I did not use any tools for this project, but I could use SQL, Python, Excel, etc.
 
-### Files Used
+### **<ins>Files Used</ins>**
 
 List file names when used
 **Did not use any**
 
-### How to Run
+### **<ins>How to Run</ins>**
 
 **This will include the directions for how to run your program when showcasing a real project!**
 
-### Additional Documents
+### **<ins>Additional Documents</ins>**
 
 ~Did not use any other documents~
