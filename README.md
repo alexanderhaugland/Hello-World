@@ -11,7 +11,7 @@ This is my first attempt at creating a good READ.ME file for a repository.
 5. [How to Run](#How-to-Run)
 6. [Additional Documents](#Additional-Documents)
 
-## **<ins>Project Title</ins>**
+### **<ins>Project Title</ins>**
 
 "Hello-World, My first practice repository"
 
